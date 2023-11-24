@@ -27,8 +27,8 @@ public class Abbigliamento extends Articolo {
     @Override
     public String dettagli() {
         return "          " +
-                "taglia='" + taglia + '\'' +
-                ", genere='" + genere + '\'' +
+                "taglia = '" + taglia + '\'' +
+                ", genere = '" + genere + '\'' +
                 '}';
     }
 }

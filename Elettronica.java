@@ -27,8 +27,8 @@ public class Elettronica extends Articolo{
     @Override
     public String dettagli() {
         return  "          " +
-                "marca= '" + marca + '\'' +
-                ", tipoDispositivo='" + tipoDispositivo + '\'' +
+                "marca = '" + marca + '\'' +
+                ", tipoDispositivo = '" + tipoDispositivo + '\'' +
                 '}';
     }
 }
